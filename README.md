@@ -1,6 +1,6 @@
 # Pandas & SQL 
 
-**EASY**
+**EASY** | **SOLVED & EXPPLAINED**
 
 - [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/solutions/4051076/pandas-sql-easy-combine-two-tables/)
 
@@ -83,31 +83,50 @@
 
 - [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/solutions/4077402/pandas-sql-easy-average-time-of-process-per-machine/)
 
-- [__________________](__________________)
-- [__________________](__________________)
+  **MEDIUM** | **SOLVED**
 
-- [__________________](__________________)
+- [Market Analysis I](https://leetcode.com/problems/market-analysis-i/submissions/)
+- [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/)
 
-- [__________________](__________________)
+- [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/)
 
-- [__________________](__________________)
-- [__________________](__________________)
+- [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/)
 
-- [__________________](__________________)
+- [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)
+- [Movie Rating](https://leetcode.com/problems/movie-rating/)
 
-- [__________________](__________________)
+- [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)
 
-- [__________________](__________________)
-- [__________________](__________________)
+- [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/)
 
-- [__________________](__________________)
+- [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/)
+- [Exchange Seats](https://leetcode.com/problems/exchange-seats/)
 
-- [__________________](__________________)
+- [Tree Node](https://leetcode.com/problems/tree-node/)
 
-- [__________________](__________________)
-- [__________________](__________________)
+- [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/)
 
-- [__________________](__________________)
+- [Investments in 2016](https://leetcode.com/problems/investments-in-2016/)
+- [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)
+
+- [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)
+
+- [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
+
+- [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)
+
+- [Rank Scores](https://leetcode.com/problems/rank-scores/)
+- [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
+
+- [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+
+- [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)
+
+- [Human Traffic of Stadium | Hard ](https://leetcode.com/problems/human-traffic-of-stadium/)
+
+- [Trips and Users | Hard](https://leetcode.com/problems/trips-and-users/)
+
+- [Department Top Three Salaries | Hard ](https://leetcode.com/problems/department-top-three-salaries/)
 
 - [__________________](__________________)
 
