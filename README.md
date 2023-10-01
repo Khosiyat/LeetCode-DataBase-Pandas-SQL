@@ -83,7 +83,7 @@
 
 - [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/solutions/4077402/pandas-sql-easy-average-time-of-process-per-machine/)
 
-  **MEDIUM** | **SOLVED**
+  **MEDIUM & HARD** | **SOLVED**
 
 - [Market Analysis I](https://leetcode.com/problems/market-analysis-i/submissions/)
 - [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/)
@@ -128,6 +128,3 @@
 
 - [Department Top Three Salaries | Hard ](https://leetcode.com/problems/department-top-three-salaries/)
 
-- [__________________](__________________)
-
-- [__________________](__________________)
