@@ -1,6 +1,7 @@
 # Pandas & SQL 
 
 **EASY**
+
 [Pandas & SQL | EASY | Combine Two Tables](https://leetcode.com/problems/combine-two-tables/solutions/4051076/pandas-sql-easy-combine-two-tables/)
 
 [__________________](__________________)
