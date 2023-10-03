@@ -86,45 +86,47 @@
   **MEDIUM & HARD** | **SOLVED**
 
 - [Market Analysis I](https://leetcode.com/problems/market-analysis-i/discuss/4115994/Pandas-or-SQL-or-Explained-Step-By-Step-or-Market-Analysis-I)
-- [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/)
+- [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/discuss/4116045/Pandas-or-SQL-or-Explained-Step-By-Step-or-Product-Price-at-a-Given-Date)
 
-- [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/)
+- [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/discuss/4116069/Pandas-or-SQL-or-Explained-Step-By-Step-or-Immediate-Food-Delivery-II)
 
-- [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/)
+- [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/discuss/4116093/Pandas-or-SQL-or-Explained-Step-By-Step-or-Monthly-Transactions-I)
 
-- [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)
-- [Movie Rating](https://leetcode.com/problems/movie-rating/)
+- [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/discuss/4116121/Pandas-or-SQL-or-Explained-Step-By-Step-or-Last-Person-to-Fit-in-the-Bus)
+- [Movie Rating](https://leetcode.com/problems/movie-rating/discuss/4116142/Pandas-or-SQL-or-Explained-Step-By-Step-or-Movie-Rating)
 
-- [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)
+- [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/discuss/4116156/Pandas-or-SQL-or-Explained-Step-By-Step-or-Capital-GainLoss)
 
-- [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/)
+- [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/discuss/4116171/Pandas-or-SQL-or-Explained-Step-By-Step-or-Product-Sales-Analysis-III)
 
-- [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/)
-- [Exchange Seats](https://leetcode.com/problems/exchange-seats/)
+- [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/discuss/4116183/Pandas-or-SQL-or-Explained-Step-By-Step-or-Customers-Who-Bought-All-Products)
+- 
+- [Exchange Seats](https://leetcode.com/problems/exchange-seats/discuss/4125719/Pandas-or-SQL-or-Explained-Step-By-Step-or-Exchange-Seats)
 
-- [Tree Node](https://leetcode.com/problems/tree-node/)
+- [Tree Node](https://leetcode.com/problems/tree-node/discuss/4125764/Pandas-or-SQL-or-Explained-Step-By-Step-or-Tree-Node)
 
-- [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/)
+- [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/discuss/4125761/Pandas-or-SQL-or-Explained-Step-By-Step-or-Friend-Requests-II%3A-Who-Has-the-Most-Friends)
 
-- [Investments in 2016](https://leetcode.com/problems/investments-in-2016/)
-- [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)
+- [Investments in 2016](https://leetcode.com/problems/investments-in-2016/discuss/4125751/Pandas-or-SQL-or-Explained-Step-By-Step-or-Investments-in-2016)
+  
+- [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/discuss/4125747/Pandas-or-SQL-or-Explained-Step-By-Step-or-Managers-with-at-Least-5-Direct-Reports)
 
-- [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)
+- [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/discuss/4125744/Pandas-or-SQL-or-Explained-Step-By-Step-or-Game-Play-Analysis-IV)
 
-- [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
+- [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/discuss/4125740/Pandas-or-SQL-or-Explained-Step-By-Step-or-Department-Highest-Salary)
 
-- [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)
+- [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/discuss/4125737/Pandas-or-SQL-or-Explained-Step-By-Step-or-Consecutive-Numbers)
 
-- [Rank Scores](https://leetcode.com/problems/rank-scores/)
-- [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)
+- [Rank Scores](https://leetcode.com/problems/rank-scores/discuss/4125736/Pandas-or-SQL-or-Explained-Step-By-Step-or-Rank-Scores)
+- [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/discuss/4120850/Pandas-or-SQL-or-Explained-Step-By-Step-or-Nth-Highest-Salary)
 
-- [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+- [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/discuss/4120841/Pandas-or-SQL-or-Explained-Step-By-Step-or-Second-Highest-Salary)
 
-- [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)
+- [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/discuss/4120839/Pandas-or-SQL-or-Explained-Step-By-Step-or-Confirmation-Rate)
 
-- [Human Traffic of Stadium | Hard ](https://leetcode.com/problems/human-traffic-of-stadium/)
+- [Human Traffic of Stadium | Hard ](https://leetcode.com/problems/human-traffic-of-stadium/discuss/4120838/Pandas-or-SQL-or-Explained-Step-By-Step-or-Human-Traffic-of-Stadium)
 
-- [Trips and Users | Hard](https://leetcode.com/problems/trips-and-users/)
+- [Trips and Users | Hard](https://leetcode.com/problems/trips-and-users/discuss/4120833/Pandas-or-SQL-or-Explained-Step-By-Step-or-Trips-and-Users)
 
-- [Department Top Three Salaries | Hard ](https://leetcode.com/problems/department-top-three-salaries/)
+- [Department Top Three Salaries | Hard ](https://leetcode.com/problems/department-top-three-salaries/discuss/4120830/Pandas-or-SQL-or-Explained-Step-By-Step-or-Department-Top-Three-Salaries)
 
