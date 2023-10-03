@@ -83,7 +83,7 @@
 
 - [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/solutions/4077402/pandas-sql-easy-average-time-of-process-per-machine/)
 
-  **MEDIUM**
+  **MEDIUM** | **SOLVED & EXPPLAINED**
 
 - [Market Analysis I](https://leetcode.com/problems/market-analysis-i/discuss/4115994/Pandas-or-SQL-or-Explained-Step-By-Step-or-Market-Analysis-I)
 - [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/discuss/4116045/Pandas-or-SQL-or-Explained-Step-By-Step-or-Product-Price-at-a-Given-Date)
@@ -124,7 +124,7 @@
 
 - [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/discuss/4120839/Pandas-or-SQL-or-Explained-Step-By-Step-or-Confirmation-Rate)
 
-**HARD**
+**HARD** | **SOLVED & EXPPLAINED**
 
 - [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/discuss/4120838/Pandas-or-SQL-or-Explained-Step-By-Step-or-Human-Traffic-of-Stadium)
 
