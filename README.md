@@ -85,7 +85,7 @@
 
   **MEDIUM & HARD** | **SOLVED**
 
-- [Market Analysis I](https://leetcode.com/problems/market-analysis-i/submissions/)
+- [Market Analysis I](https://leetcode.com/problems/market-analysis-i/discuss/4115994/Pandas-or-SQL-or-Explained-Step-By-Step-or-Market-Analysis-I)
 - [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/)
 
 - [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/)
