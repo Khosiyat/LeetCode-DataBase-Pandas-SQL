@@ -100,7 +100,7 @@
 - [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/discuss/4116171/Pandas-or-SQL-or-Explained-Step-By-Step-or-Product-Sales-Analysis-III)
 
 - [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/discuss/4116183/Pandas-or-SQL-or-Explained-Step-By-Step-or-Customers-Who-Bought-All-Products)
-- 
+  
 - [Exchange Seats](https://leetcode.com/problems/exchange-seats/discuss/4125719/Pandas-or-SQL-or-Explained-Step-By-Step-or-Exchange-Seats)
 
 - [Tree Node](https://leetcode.com/problems/tree-node/discuss/4125764/Pandas-or-SQL-or-Explained-Step-By-Step-or-Tree-Node)
